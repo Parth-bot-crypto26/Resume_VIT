@@ -72,7 +72,7 @@ B.Tech in Computer Science (Specialization in A.I. & M.L.)
 
 ## 🏅 *CERTIFICATIONS & ACHIEVEMENTS*
 
-- *Hackathon Participation* - Participated in HackTU 6.0 and qualified for the final round among 2500+ students and 900+ teams.
+- *Hackathon Participation* - Participated in HackTU 6.0 and qualified for the final round among 3500+ students and 800+ teams.
 - *Cloud Computing (NPTEL)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858964321/)  
 - *Fundamentals of A.I. and M.L. (VITyarthi)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858867590/)  
 - *Python Essentials (VITyarthi)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718857964550/)  
