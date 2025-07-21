@@ -6,101 +6,85 @@
 
 ---
 
-## 🎓 EDUCATION
+## 🎓 *EDUCATION*
 
-*VIT Bhopal University*  
+*VIT Bhopal University*                                                            *Aug 2023 – Present*  
 B.Tech in Computer Science (Specialization in A.I. & M.L.)  
 *CGPA: 9.11*
 
-*Govt. Excellence H.S. School, Betul (MP)*  
-*10th: 100%* | *12th: 94%*  
-April 2019 – March 2023
+*Govt. Excellence H.S. School, Betul (MP)*                               *Apr 2019 – Mar 2023*  
+*10th: 100%  12th: 94%*
 
 ---
 
-## 🛠 TECHNICAL SKILLS
+## 💼 *WORK EXPERIENCE*
 
-*Programming Languages:*  
-Python, C++, C, HTML, JavaScript, CSS  
+*A.I. Developer – AlgoFed* (Remote Internship)                  *Sep 2023 – Oct 2023*  
+- Developed Python scripts to extract and parse hardware details from PDFs using PyPDF2/pdfminer.  
+- Built a comparison tool to identify mismatched hardware data.  
+- Implemented robust error handling and generated reports in JSON/Text format.
 
-*Libraries and Tools:*  
-ReactJS, NodeJS, MySQL, MongoDB, Git, Figma  
-
-*Soft Skills:*  
-Leadership, Event Management, Problem Solving, Team Collaboration, Adaptability, Creativity
-
----
-
-## 💼 WORK EXPERIENCE
-
-### *A.I. Developer – AlgoFed*  
-Remote Internship  
-*Sep 2023 – Oct 2023*
-
-- Developed Python scripts to extract and parse hardware details (CPU, RAM, Serial No.) from PDFs using PyPDF2/pdfminer.
-- Built a comparison tool to identify missing/mismatched hardware data against predefined datasets.
-- Implemented robust error handling for corrupted PDFs; generated detailed reports in JSON/Text format.
-
-### *C++ Developer – Code Casa Pvt. Ltd.*  
-Remote Internship  
-*Dec 2024 – Feb 2025*
-
-- Created a file-based user registration/login system in C++ with secure data handling.
-- Developed a Hotel Management System with booking, updating, searching, and deletion features using File I/O.
-- Enhanced understanding of file handling, system design, and core C++ structures.
+*C++ Developer – Code Casa Pvt. Ltd.* (Remote Internship)           *Dec 2024 – Feb 2025*  
+- Developed a file-based user registration/login system in C++.  
+- Built a hotel management system for booking/search/update/delete using File I/O.  
+- Strengthened concepts in system design and data handling.
 
 ---
 
-## 🚀 PROJECTS
+## 🛠 *TECHNICAL SKILLS*
 
-### *Netlyze – Predictive Network Traffic Analyzer*  
-[GitHub](https://github.com/Netlyze/Netlyze)  
-A real-time desktop app for network traffic analysis using Python, PyQt5, Scapy & Dash.
+*• Programming Languages:*  
+*Python, C++, C, HTML, JavaScript, CSS*
 
-- Captures live packet data, analyzes using hybrid ML models (Random Forest & Gradient Boosting).
-- Visualizes bandwidth usage, threats, and anomalies.
-- Achieved *99.18% accuracy*; optimized for offline secure environments.
+*• Libraries & Tools:*  
+*ReactJS, NodeJS, MySQL, MongoDB, Git, Figma*
 
----
-
-### *Moodify – Sentiment Analysis Web App*
-
-A BERT-based NLP sentiment classifier using Python, Flask, HTML/CSS/JS.
-
-- Classifies emotions: *Happy, **Sad, **Angry, **Neutral*.
-- Real-time feedback with user-friendly UI.
-- Achieved *87–90% model accuracy*.
+*• Soft Skills:*  
+*Leadership, Event Management, Problem Solving, Team Collaboration, Adaptability, Creativity*
 
 ---
 
-### *NetNinja – Cyber Safety Learning Platform for Kids*  
-[Live Site](https://netninja-admin.web.app/)  
-Interactive web platform for kids aged 5–15 promoting cyber safety through gamified learning.
+## 🚀 *PROJECTS*
 
-- Built with *React, Firebase, HTML, CSS, JS*.
-- Features role-playing, quizzes, threat simulations, and an AI chatbot.
-- Combines *education + play-based UX*.
-
----
-
-## 🏆 CERTIFICATIONS & ACHIEVEMENTS
-
-- *Cloud Computing (NPTEL)* [Link](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858964321/)
-- *Fundamentals of A.I. and M.L. (VITyarthi)* [Link](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858867590/)
-- *Python Essentials (VITyarthi)* [Link](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718857964550/)
-- *Learn Python (CodeChef)* [Link](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858180938/)
-- *MATLAB Onramp (MathWorks)* [Link](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858566584/)
-- *Introduction to Python (HackerRank)*
+### 🎯 *Netlyze – Predictive Network Traffic Analyzer*  
+🔗 [GitHub Repository](https://github.com/Netlyze/Netlyze)  
+- Real-time desktop app for analyzing network traffic using *Python, PyQt5, Scapy, Dash*.  
+- Live packet capture & hybrid ML (Random Forest + Gradient Boosting).  
+- Visualizes bandwidth stats & anomalies. Achieved *99.18% accuracy*.
 
 ---
 
-## ✨ EXTRACURRICULAR ACTIVITIES
+### 🎯 *Moodify – Sentiment Analysis Web App*  
+🔗 [GitHub Repository](https://github.com/Parth-bot-crypto26/Moodify)  
+- Web app using *BERT NLP, **Python, Flask, HTML, CSS, JS*.  
+- Detects emotion: *Happy, **Sad, **Angry, **Neutral*.  
+- Real-time frontend + backend integration. Accuracy: *87–90%*.
 
-- *Winner* – Division-Level Competitions (Sanskrit Shloka, Singing, Tabla, Science Quiz)
-- *Anchor* – School Fests including Guru Purnima, Farewell, and Govt. Events
-- *Core Member – Content Team*  
-  - Metaverse Club  
-  - Edu4u Club  
-  - Freelancing Club
+---
+
+### 🎯 *NetNinja – Cyber Safety Platform for Kids*  
+🔗 [Live Demo](https://netninja-admin.web.app/)  
+- Gamified cyber-safety learning for ages 5–15 using *React, Firebase, HTML/CSS/JS*.  
+- Features quizzes, simulations, stories & AI chatbot.  
+- Combines intuitive UX with educational value.
+
+---
+
+## 🏅 *CERTIFICATIONS & ACHIEVEMENTS*
+
+- *Hakathon Participation* - Participated in HackTU 6.0 and qualified for the final round among 2500+ students and 900+ teams.
+- *Cloud Computing (NPTEL)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858964321/)  
+- *Fundamentals of A.I. and M.L. (VITyarthi)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858867590/)  
+- *Python Essentials (VITyarthi)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718857964550/)  
+- *Learn Python (CodeChef)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858180938/)  
+- *MATLAB Onramp (MathWorks)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858566584/)  
+
+---
+
+## 🎤 *EXTRACURRICULAR ACTIVITIES*
+
+- 🏆 *Winner* – Division-Level Competitions: Sanskrit Shloka, Singing, Tabla, Science Quiz  
+- 🎙 *Anchor* – School Fests: Guru Purnima, Farewell, Govt. Events  
+- ✍ *Core Content Team Member* – Metaverse Club, Edu4u Club, Freelancing Club
 
 ---
