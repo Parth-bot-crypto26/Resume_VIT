@@ -10,7 +10,7 @@
 
 *VIT Bhopal University*                         *Aug 2023 – Present*  
 B.Tech in Computer Science (Specialization in A.I. & M.L.)  
-*CGPA: 9.11*
+*CGPA: 8.91*
 
 *Govt. Excellence H.S. School, Betul (MP)*                    *Apr 2019 – Mar 2023*  
 *10th: 100%  12th: 94%*
