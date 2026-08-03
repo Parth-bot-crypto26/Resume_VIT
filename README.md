@@ -68,7 +68,7 @@ To adapt this template for your own profile:
 **Parth Deshpande**
 - 🌐 Portfolio: [parth-portfolio-beryl.vercel.app](https://parth-portfolio-beryl.vercel.app/)
 - 💻 GitHub: [@Parth-bot-crypto26](https://github.com/Parth-bot-crypto26)
-- 💼 LinkedIn: [parth-deshpande](https://linkedin.com/in/parth-deshpande)
+- 💼 LinkedIn: [parth-deshpande](linkedin.com/in/parth-deshpande-93578027b)
 
 ---
 
