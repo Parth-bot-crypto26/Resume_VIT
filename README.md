@@ -2,7 +2,7 @@
 
 📞 *+91 97705 14488*  
 📧 *deshpandeparth793@gmail.com*  
-🌐 [LinkedIn](https://www.linkedin.com/in/parth-deshpande-93578027b/) | [GitHub](https://github.com/Parth-bot-crypto26/) | [Leetcode](https://leetcode.com/u/parth-bot-crypto-26/) | [GeeksForGeeks](https://www.geeksforgeeks.org/user/parth23bt7uq/)
+🌐 [Portfolio]([https://github.com/Parth-bot-crypto26/](https://parth-portfolio-beryl.vercel.app/)) | [LinkedIn](https://www.linkedin.com/in/parth-deshpande-93578027b/) | [GitHub](https://github.com/Parth-bot-crypto26/) | [Leetcode](https://leetcode.com/u/parth-bot-crypto-26/) | [GeeksForGeeks](https://www.geeksforgeeks.org/user/parth23bt7uq/)
 
 ---
 
@@ -10,7 +10,7 @@
 
 *VIT Bhopal University*                         *Aug 2023 – Present*  
 B.Tech in Computer Science (Specialization in A.I. & M.L.)  
-*CGPA: 8.91*
+*CGPA: 9.0*
 
 *Govt. Excellence H.S. School, Betul (MP)*                    *Apr 2019 – Mar 2023*  
 *10th: 100%  12th: 94%*
