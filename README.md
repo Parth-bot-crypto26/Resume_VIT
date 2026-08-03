@@ -1,90 +1,75 @@
-# PARTH DESHPANDE
+# 📄 ATS-Friendly LaTeX Resume — Parth Deshpande
 
-📞 *+91 97705 14488*  
-📧 *deshpandeparth793@gmail.com*  
-🌐 [Portfolio](https://parth-portfolio-beryl.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/parth-deshpande-93578027b/) | [GitHub](https://github.com/Parth-bot-crypto26/) | [Leetcode](https://leetcode.com/u/parth-bot-crypto-26/) | [GeeksForGeeks](https://www.geeksforgeeks.org/user/parth23bt7uq/)
+A clean, modern, and 100% **ATS-friendly LaTeX resume** engineered for Software Engineering, AI/ML, and Computer Science undergraduates. Built using clean TeX formatting for crisp typesetting, machine-readability, and effortless customization.
 
----
-
-## 🎓 *EDUCATION*
-
-*VIT Bhopal University*                         *Aug 2023 – Present*  
-B.Tech in Computer Science (Specialization in A.I. & M.L.)  
-*CGPA: 9.0*
-
-*Govt. Excellence H.S. School, Betul (MP)*                    *Apr 2019 – Mar 2023*  
-*10th: 100%  12th: 94%*
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
+[![Overleaf Ready](https://img.shields.io/badge/Overleaf-Ready-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://www.overleaf.com/)
+[![ATS Friendly](https://img.shields.io/badge/ATS-Optimized-blue?style=for-the-badge)](https://github.com/Parth-bot-crypto26/Resume_VIT)
 
 ---
 
-## 💼 *WORK EXPERIENCE*
+## 🌟 Key Features
 
-*A.I. Developer – AlgoFed* (Remote Internship)                  *Sep 2023 – Oct 2023*  
-- Developed Python scripts to extract and parse hardware details from PDFs using PyPDF2/pdfminer.  
-- Built a comparison tool to identify mismatched hardware data.  
-- Implemented robust error handling and generated reports in JSON/Text format.
-
-*C++ Developer – Code Casa Pvt. Ltd.* (Remote Internship)           *Dec 2024 – Feb 2025*  
-- Developed a file-based user registration/login system in C++.  
-- Built a hotel management system for booking/search/update/delete using File I/O.  
-- Strengthened concepts in system design and data handling.
+- 🎯 **ATS-Optimized**: Uses `glyphtounicode` & `pdfgentounicode=1` to ensure perfect machine readability by Applicant Tracking Systems.
+- 📐 **Compact Single-Page Layout**: Perfectly balanced margins and spacing tailored for undergraduate & early-career software developers.
+- 🎨 **Minimalist & Professional**: Clear section headers, horizontal dividers, and crisp font hierarchy.
+- ⚡ **Overleaf & Local Compatible**: Compiles seamlessly with `pdflatex`, `xelatex`, or on Overleaf without extra dependencies.
+- 🔗 **Interactive Links**: Clean, un-cluttered hyperlink integration for GitHub, LinkedIn, and email via `hyperref`.
 
 ---
 
-## 🛠 *TECHNICAL SKILLS*
+## 📑 Resume Structure
 
-*• Programming Languages:*  
-*Python, C++, C, HTML, JavaScript, CSS*
-
-*• Libraries & Tools:*  
-*ReactJS, NodeJS, MySQL, MongoDB, Git, Figma*
-
-*• Soft Skills:*  
-*Leadership, Event Management, Problem Solving, Team Collaboration, Adaptability, Creativity*
-
----
-
-## 🚀 *PROJECTS*
-
-### 🎯 *Netlyze – Predictive Network Traffic Analyzer*  
-🔗 [GitHub Repository](https://github.com/Netlyze/Netlyze)  
-- Real-time desktop app for analyzing network traffic using *Python, PyQt5, Scapy, Dash*.  
-- Live packet capture & hybrid ML (Random Forest + Gradient Boosting).  
-- Visualizes bandwidth stats & anomalies. Achieved *99.18% accuracy*.
+```text
+├── Header             # Name, Phone, Email, LinkedIn, GitHub
+├── Education          # Degree, University, High School, GPA & Board Percentages
+├── Technical Skills   # Categorized by Languages, AI/ML, Web Dev, Databases, & Tools
+├── Projects           # Bulleted project breakdowns with Tech Stack & Metrics
+├── Achievements       # Hackathons, Competitive Programming, & Program Selections
+└── Certifications     # Cloud, AI, and Specialization certifications
+```
 
 ---
 
-### 🎯 *Moodify – Sentiment Analysis Web App*  
-🔗 [GitHub Repository](https://github.com/Parth-bot-crypto26/Moodify)  
-- Web app using *BERT NLP, **Python, Flask, HTML, CSS, JS*.  
-- Detects emotion: *Happy, **Sad, **Angry, **Neutral*.  
-- Real-time frontend + backend integration. Accuracy: *87–90%*.
+## 🚀 How to Use / Compile
+
+### Option 1: Overleaf (Recommended)
+1. Download or copy `resume.tex` from this repository.
+2. Go to [Overleaf](https://www.overleaf.com/) and create a **Blank Project**.
+3. Paste the contents into `main.tex` and click **Recompile**.
+4. Download your compiled PDF!
+
+### Option 2: Local Compilation (Command Line)
+Make sure you have TeX Live / MiKTeX installed:
+
+```bash
+# Clone the repository
+git clone https://github.com/Parth-bot-crypto26/Resume_VIT.git
+cd Resume_VIT
+
+# Compile using pdflatex
+pdflatex resume.tex
+```
 
 ---
 
-### 🎯 *NetNinja – Cyber Safety Platform for Kids*  
-🔗 [Live Demo](https://netninja-admin.web.app/)  
-- Gamified cyber-safety learning for ages 5–15 using *React, Firebase, HTML/CSS/JS*.  
-- Features quizzes, simulations, stories & AI chatbot.  
-- Combines intuitive UX with educational value.
+## 🛠️ Personalization
+
+To adapt this template for your own profile:
+1. Open `resume.tex`.
+2. Update the contact info in the `%----------HEADING----------` section.
+3. Edit the sections (`Education`, `Technical Skills`, `Projects`, `Achievements`, `Certifications`) under their respective `\section{}` blocks.
+4. Recompile!
 
 ---
 
-## 🏅 *CERTIFICATIONS & ACHIEVEMENTS*
+## 👤 Author
 
-- *Hackathon Participation* - Participated in HackTU 6.0 and qualified for the final round among 3500+ students and 800+ teams.
-- *Cloud Computing (NPTEL)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858964321/)  
-- *Fundamentals of A.I. and M.L. (VITyarthi)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858867590/)  
-- *Python Essentials (VITyarthi)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718857964550/)  
-- *Learn Python (CodeChef)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858180938/)  
-- *MATLAB Onramp (MathWorks)* – [Certificate](https://www.linkedin.com/in/parth-deshpande-93578027b/details/certifications/1718858566584/)  
+**Parth Deshpande**
+- 🌐 Portfolio: [parth-portfolio-beryl.vercel.app](https://parth-portfolio-beryl.vercel.app/)
+- 💻 GitHub: [@Parth-bot-crypto26](https://github.com/Parth-bot-crypto26)
+- 💼 LinkedIn: [parth-deshpande](https://linkedin.com/in/parth-deshpande)
 
 ---
 
-## 🎤 *EXTRACURRICULAR ACTIVITIES*
-
-- 🏆 *Winner* – Division-Level Competitions: Sanskrit Shloka, Singing, Tabla, Science Quiz  
-- 🎙 *Anchor* – School Fests: Guru Purnima, Farewell, Govt. Events  
-- ✍ *Core Content Team Member* – Metaverse Club, Edu4u Club, Freelancing Club
-
----
+⭐ *If you find this resume template helpful, feel free to give this repository a star!*

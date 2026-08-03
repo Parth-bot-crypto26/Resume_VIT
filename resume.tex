@@ -1,0 +1,160 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\input{glyphtounicode}
+
+% Page Setup
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0pt}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\vspace{-6pt}\hrule height 1pt]
+
+% Ensure generated PDF is machine-readable / ATS-friendly
+\pdfgentounicode=1
+
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.15in, label=\textbullet]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \scshape Parth Deshpande} \\ \vspace{4pt}
+    \small +919770514488 \ $|$ \href{mailto:deshpandeparth793@gmail.com}{deshpandeparth793@gmail.com} \ $|$ \href{https://linkedin.com/in/parth-deshpande}{linkedin.com/in/parth-deshpande} \ $|$ \href{https://github.com/Parth-bot-crypto26}{github.com/Parth-bot-crypto26}
+\end{center}
+\vspace{-12pt}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {VIT Bhopal University, Bhopal}{June 2023 -- June 2027}
+      {Bachelor of Technology in Computer Science \& Engineering (AI\&ML)}{CGPA: 8.97/10}
+    \resumeSubheading
+      {Govt. Excellence H. S. School, Betul}{2023}
+      {Class 12th Board: 94\%}{Class 10th Board: 100\%}
+  \resumeSubHeadingListEnd
+\vspace{-8pt}
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages:}{ Python, C++, JavaScript (ES6+), SQL, Java} \\
+     \textbf{AI \& Machine Learning:}{ PyTorch, TensorFlow, Hugging Face, NLP, OpenCV, LLMs} \\
+     \textbf{Web Development:}{ React.js, Node.js, Express, HTML5, CSS3, RESTful APIs} \\
+     \textbf{Databases:}{ PostgreSQL, MongoDB, MySQL, FAISS (Vector DB), Firebase} \\
+     \textbf{Developer Tools \& Cloud:}{ Git, Docker, AWS (EC2, S3), MLflow, Postman, VS Code, Linux}
+    }}
+ \end{itemize}
+\vspace{-12pt}
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      
+      \resumeSubheading
+        {\textbf{Vector-Database: High-Dimensional Vector Search Engine}}{Jun 2026 -- Jul 2026}
+        {Technologies: C++, HNSW, KD-Tree, cpp-httplib (REST API), Ollama, RAG}{}
+        \vspace{-5pt}
+        \resumeItemListStart
+          \resumeItem{Engineered a vector database from scratch in C++, implementing HNSW, KD-Tree, and Brute-Force search side-by-side across 3 configurable distance metrics (cosine, Euclidean, Manhattan), benchmarking $\mathcal{O}(\log N)$ approximate retrieval against exact $\mathcal{O}(N \cdot d)$ baselines.}
+          \resumeItem{Built a full RAG pipeline integrating local LLM inference (Ollama nomic-embed-text + llama3.2) with the custom HNSW index, chunking documents into overlapping 250-word segments and streaming token-level answers over a REST API.}
+        \resumeItemListEnd
+
+      \resumeSubheading
+        {\textbf{Semantic Code Similarity: NLP-Based Plagiarism Detector}}{Feb 2026 -- Mar 2026}
+        {Technologies: Python, Word2Vec, GloVe, NLP, scikit-learn, Streamlit}{}
+        \vspace{-5pt}
+        \begin{itemize}[leftmargin=0.15in, label={}]
+          \item \small \textit{Built an NLP-based plagiarism detector that compares Python source code semantically rather than syntactically, using tokenization, identifier normalization, and mean-pooled Word2Vec/GloVe embeddings.}
+        \end{itemize}
+        \vspace{-5pt}
+        \resumeItemListStart
+          \resumeItem{Implemented dual embedding backends and configurable cosine-similarity thresholds to flag code obfuscated via variable renaming, comment edits, or reformatting; deployed an interactive Streamlit UI for two-snippet and multi-file batch analysis.}
+        \resumeItemListEnd
+
+      \resumeSubheading
+        {\textbf{Subway Surfers Virtual Play: Real-time HCI System}}{Dec 2025 -- Jan 2026}
+        {Technologies: Python, OpenCV, MediaPipe, PyAutoGUI}{}
+        \vspace{-5pt}
+        \resumeItemListStart
+          \resumeItem{Engineered a real-time Human--Computer Interaction system controlling Subway Surfers through live body pose detection, eliminating keyboard input entirely via gesture-to-keypress mapping.}
+          \resumeItem{Designed a calibration and landmark-tracking pipeline using MediaPipe Pose to classify 5 game actions from shoulder and hip landmark geometry.}
+          \resumeItem{Structured the project into modular utility files with dedicated test scripts per gesture, enabling isolated debugging and rapid iteration.}
+        \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+\vspace{-8pt}
+
+%-----------ACHIEVEMENTS-----------
+\section{Achievements}
+ \resumeItemListStart
+    \resumeItem{Selected for Amazon ML Summer School 2026 --- top 2.2\% ($\sim$3,000) of 1.34 lakh+ registrations}
+    \resumeItem{Attained Pupil Rank (Max Rating: 1409) on Codeforces}
+    \resumeItem{Mastered DSA --- 900+ problems on LeetCode, Codeforces \& CodeChef}
+    \resumeItem{Finalist, HackTU 6.0 --- top team among 3,500+ students, 800+ teams}
+ \resumeItemListEnd
+\vspace{-8pt}
+
+%-----------CERTIFICATIONS-----------
+\section{Certifications}
+ \resumeItemListStart
+    \resumeItem{Oracle Agentic AI Certified Foundations Associate}
+    \resumeItem{5-Day AI Agents: Intensive Vibe Coding Course With Google --- Kaggle}
+    \resumeItem{Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate}
+    \resumeItem{Applied Machine Learning in Python --- University of Michigan (Coursera)}
+    \resumeItem{Cloud Computing (NPTEL) --- IIT Kharagpur}
+ \resumeItemListEnd
+
+\end{document}
