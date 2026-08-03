@@ -2,7 +2,7 @@
 
 📞 *+91 97705 14488*  
 📧 *deshpandeparth793@gmail.com*  
-🌐 [Portfolio]([https://github.com/Parth-bot-crypto26/](https://parth-portfolio-beryl.vercel.app/)) | [LinkedIn](https://www.linkedin.com/in/parth-deshpande-93578027b/) | [GitHub](https://github.com/Parth-bot-crypto26/) | [Leetcode](https://leetcode.com/u/parth-bot-crypto-26/) | [GeeksForGeeks](https://www.geeksforgeeks.org/user/parth23bt7uq/)
+🌐 [Portfolio](https://parth-portfolio-beryl.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/parth-deshpande-93578027b/) | [GitHub](https://github.com/Parth-bot-crypto26/) | [Leetcode](https://leetcode.com/u/parth-bot-crypto-26/) | [GeeksForGeeks](https://www.geeksforgeeks.org/user/parth23bt7uq/)
 
 ---
 
